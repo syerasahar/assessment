@@ -1,4 +1,4 @@
-Build Restful CRUD API for a simple CRUD Application using Spring Boot, Mysql and Hibernate.
+Build Restful API using Spring Boot, Mysql and Hibernate.
 
 Requirements
 -----------------
